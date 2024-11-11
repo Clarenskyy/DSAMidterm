@@ -100,6 +100,6 @@ This will create an optimized build in the `build` folder.
 
 By following these steps, you can set up a React development environment and start building web applications.
 
-<references:
+> references:
 
-- <https://create-react-app.dev/docs/getting-started
+>- https://create-react-app.dev/docs/getting-started
